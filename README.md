@@ -10,7 +10,7 @@ Automation Code for survey
 	├─── chromedriver.exe
 	├─── constants.py
 	├─── survey_cred.json     (Expire in 15 days)
-	├─── readme.txt
+	├─── README.md
 ```
 # Installation
 
