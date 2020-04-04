@@ -23,7 +23,7 @@ updateColNumber = 1
 updateValue = "section"
 
 xpathSsTools = '//*[@id="docs-tools-menu"]'
-xpathSsToolsScriptEditor = '//*[@id=":gq"]/div/span'
+xpathSsToolsScriptEditor = '//*[@id=":ge"]'
 xpathGsPublish = '//*[@id="macros-publish-menu"]'
 xpathGsDeploy = '/html/body/div[13]/div[1]'
 xpathGsWebNew = '//*[@value="New"]'
