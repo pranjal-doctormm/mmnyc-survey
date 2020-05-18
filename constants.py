@@ -22,8 +22,8 @@ updateRowNumber = 1
 updateColNumber = 1
 updateValue = "section"
 
-xpathSsTools = '//*[@id="docs-tools-menu"]'
-xpathSsToolsScriptEditor = '//*[@id=":ge"]'
+xpathSsTools =  '//*[@id="docs-tools-menu"]'
+xpathSsToolsScriptEditor = '//*[contains(@aria-label, "Script editor e")]'
 xpathGsPublish = '//*[@id="macros-publish-menu"]'
 xpathGsDeploy = '/html/body/div[13]/div[1]'
 xpathGsWebNew = '//*[@value="New"]'
